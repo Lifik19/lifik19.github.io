@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JKT48</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>JKT48</h1>
+  </header>
+  
+<section id="about">
+  <h2>Jadwal Penampilan JKT48</h2>
+  </section>
+  
+  <h3>OFF AIR - November 2023</h3>
+  
+<table>
+  <tr>
+    <th>Tanggal</th>
+    <th>Event</th>
+    <th>Lokasi</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>SATU Indonesia Awards 2023</td>
+    <td>Jakarta</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>MudaMudiFest 1.0</td>
+    <td>Bekasi</td>
+  </tr>
+<tr>
+    <td>11</td>
+    <td>NOUVEAU 2K23</td>
+    <td>-</td>
+  </tr>
+<tr>
+    <td>11</td>
+    <td>dsocialfest</td>
+    <td>-</td>
+  </tr>
+<tr>
+    <td>18</td>
+    <td>Party Pop</td>
+    <td>-</td>
+  </tr>
+<tr>
+    <td>18</td>
+    <td>Rakyat Fest 2023</td>
+    <td>-</td>
+  </tr>
+<tr>
+    <td>18</td>
+    <td>Adira Festival 2023</td>
+    <td>Bekasi</td>
+  </tr>
+<tr>
+    <td>19</td>
+    <td>Farmasi Cup 2023</td>
+    <td>-</td>
+  </tr>
+<tr>
+    <td>25</td>
+    <td>Healix Musication Vol.3</td>
+    <td>-</td>
+  </tr>
+</table>
+
+<section id="about">
+  <h2>Jadwal Show Theater JKT48</h2>
+  </section>
+  
+  <h3>ON AIR - November 2023</h3>
+  
+<table>
+  <tr>
+    <th>Tanggal</th>
+    <th>Setlist</th>
+    <th>Jam</th>
+    <th>Info</th>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Cara Meminum Ramune</td>
+    <td>19:00</td>
+    <td>Detail</td>
+  </tr>
+<tr>
+    <td>3</td>
+    <td>Tunas di Balik Seragam</td>
+    <td>19:00</td>
+    <td>Detail</td>
+  </tr>
+<tr>
+    <td>4</td>
+    <td>Ingin Bertemu</td>
+    <td>19:00</td>
+    <td>Detail</td>
+  </tr>
+<tr>
+    <td>5</td>
+    <td>Ingin Bertemu</td>
+    <td>16:00</td>
+    <td>Detail</td>
+  </tr>
+</table>
+
+
+<p>*semua informasi tentang jadwal penampilan jkt48 yang ditampilkan disini bersumber dari website resmi jkt48</p>
+
+<footer>
+        &copy; 2023 JKT48 Schedule. All rights reserved.
+    </footer>
+ </body>
+
+
+body {
+  font-family: Trebuchet MS, Sans-Serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff0000;
+  color: #fff;
+  padding: 5px;
+  text-align: center;
+  height: 80px;
+}
+
+h2 {
+  color: #000;
+  text-align: center;
+  font-size: 15pt;
+}
+
+h3 {
+  color: #000;
+  text-align: center;
+  font-size: 20px;
+  height: 50px;
+}
+
+table {
+  font-size: 14px;
+  table-layout: center;
+  width: 355px;
+  text-align-last: center;
+}
+th {
+  background-color: #ff0000;
+  color: #ffff;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+p {
+  font-size: 12px;
+  height: 30px;
+  font-style: italic;
+  background-color: #ff0000;
+  color: #ffff;
+}
+
+footer {
+  background-color: #000;
+  color: #ffff;
+  text-align: center;
+  height: 50px;
+  padding: 50px;
+}
